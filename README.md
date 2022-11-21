@@ -19,6 +19,8 @@
 
 Информацию о покемонах, цепочках эволюции и атаках можно найти на сайтах http://poke-universe.ru, http://pokemondb.net, http://veekun.com/dex/pokemon
 
+Покемоны и их атаки:
+![Покемоны](https://drive.google.com/file/d/1mocsnrsExmtDx0sZNkVQMTOLPGX7zqMP/view?usp=sharing)
 ### Комментарии
 
 Цель работы: на простом примере разобраться с основными концепциями ООП и научиться использовать их в программах.
